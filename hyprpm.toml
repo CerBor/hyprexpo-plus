@@ -1,6 +1,9 @@
 [repository]
 name = "hyprexpo-plus"
 authors = ["sandwich.farm"]
+commit_pins = [
+["386376400119dd46a767c9f8c8791fd22c7b6e61", "ac4c81e7342b548de1ecf98fc030746f6cd0e98f"]  # 0.52.2
+]
 
 [hyprexpo-plus]
 description = "hyprexpo+ — keyboard selection, labels, gaps, and Hyprland-style borders"
